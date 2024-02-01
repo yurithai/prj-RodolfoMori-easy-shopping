@@ -137,7 +137,7 @@ header {
         padding: 0;
         margin: 0;
         margin-top: 40px;
-        padding-left: 50px;
+        display: block ;
     }
 
     .container-right {
@@ -178,8 +178,8 @@ header {
 
     #img-logo {
         position: static;
-        max-width: 250px;
-        height: 350px;
+        max-width: 280px;
+        height: 300px;
         padding: 40px;
         margin: auto;
         display: block;
